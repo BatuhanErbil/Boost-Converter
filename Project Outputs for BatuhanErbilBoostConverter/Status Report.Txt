@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BatuhanErbilBoostConverter.PrjPcb]
+   Generated File[BatuhanErbilBoostConverter.TXT]
+   Generated File[BatuhanErbilBoostConverter.LDP]
+   Generated File[BatuhanErbilBoostConverter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:22:44 On 13.10.2021
